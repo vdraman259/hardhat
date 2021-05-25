@@ -59,6 +59,9 @@ npm run start
 To start the react web app. Open [http://localhost:3000/](http://localhost:3000/) in your browser and you should see this:
 ![](/front-5.png)
  
+If you are unable to connect to your metamask account go to setings of the MetaMask account and use  http://0.0.0.0:8545 instead of http://127.0.0.1:8545) as the RPC URL and chain id 31337.
+
+ 
 Set your network in MetaMask to `localhost:8545`, and click the button. You should then see this:
 
 ![](/front-2.png)
